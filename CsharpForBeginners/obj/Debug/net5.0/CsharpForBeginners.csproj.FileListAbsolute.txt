@@ -1,0 +1,16 @@
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.exe
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.deps.json
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.runtimeconfig.json
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.runtimeconfig.dev.json
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.dll
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\ref\CsharpForBeginners.dll
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\bin\Debug\net5.0\CsharpForBeginners.pdb
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.csprojAssemblyReference.cache
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.AssemblyInfoInputs.cache
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.AssemblyInfo.cs
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.csproj.CoreCompileInputs.cache
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.dll
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\ref\CsharpForBeginners.dll
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.pdb
+C:\Users\Mars\source\repos\CsharpForBeginners\CsharpForBeginners\obj\Debug\net5.0\CsharpForBeginners.genruntimeconfig.cache
