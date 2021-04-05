@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpForBeginners", "CsharpForBeginners\CsharpForBeginners.csproj", "{71B68A17-3769-4119-B130-11D417B67A56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpForBeginners", "CsharpForBeginners\CsharpForBeginners.csproj", "{71B68A17-3769-4119-B130-11D417B67A56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlackJack", "BlackJack\BlackJack.csproj", "{D8BAA63F-9078-4F0C-BD14-5DDBCD22CD88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notebook", "notebook\notebook.csproj", "{F40F8588-76CC-4194-B078-D60309AEFCBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{71B68A17-3769-4119-B130-11D417B67A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B68A17-3769-4119-B130-11D417B67A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B68A17-3769-4119-B130-11D417B67A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BAA63F-9078-4F0C-BD14-5DDBCD22CD88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BAA63F-9078-4F0C-BD14-5DDBCD22CD88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BAA63F-9078-4F0C-BD14-5DDBCD22CD88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BAA63F-9078-4F0C-BD14-5DDBCD22CD88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F40F8588-76CC-4194-B078-D60309AEFCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F40F8588-76CC-4194-B078-D60309AEFCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F40F8588-76CC-4194-B078-D60309AEFCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F40F8588-76CC-4194-B078-D60309AEFCBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
