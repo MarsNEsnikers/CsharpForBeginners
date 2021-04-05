@@ -175,7 +175,12 @@ namespace CsharpForBeginners
             //    Console.WriteLine(item);
             //}
 
+            //double a = 1;
+            //double b = 2;
 
+            //Console.WriteLine("");
+
+            //double c;
 
             //int[] numbers = new int[10];
             //Random random = new Random();
@@ -189,6 +194,10 @@ namespace CsharpForBeginners
             //{
             //    Console.WriteLine(numbers[i]);
             //}
+
+            
+
+            
         }
     }
 }

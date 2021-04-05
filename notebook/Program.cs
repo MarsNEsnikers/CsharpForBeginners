@@ -6,9 +6,6 @@ namespace notebook
     {
         static void Main(string[] args)
         {
-
-
-
             string[] names = new string[10];
 
             names[0] = "Ivan";
@@ -23,10 +20,9 @@ namespace notebook
 
             for (int i = 0; i < names.Length; i++)
             {
-
                 Console.WriteLine(names[i]);
-
             }
+
             Console.WriteLine("Вваше имя:" + names[6]);
 
 
@@ -44,19 +40,16 @@ namespace notebook
 
             Console.WriteLine("Введите ваш возраст:");
             strAge = Console.ReadLine();
-
             bool success = Byte.TryParse(strAge, out byteValue);
 
             for (int i = 0; i < age.Length; i++)
             {
                 Console.WriteLine(age[i]);
             }
-            
+
             if (success)
             {
-
                 Console.WriteLine("Ваш возраст:" + strAge, byteValue);
-                
             }
 
             if (!success)
@@ -64,8 +57,6 @@ namespace notebook
                 Console.WriteLine("Вы ввели не число!");
                 strAge = Console.ReadLine();
                 Console.WriteLine("Ваш возраст:" + strAge, byteValue);
-                
-
             }
 
             string[] phoneNum = new string[10];
@@ -77,29 +68,18 @@ namespace notebook
             phoneNum[4] = "8 999 929 91 91";
             phoneNum[5] = "8 999 929 91 91";
 
-
             Console.WriteLine("Введите номер телефона:");
             phoneNum[6] = Console.ReadLine();
 
             for (int i = 0; i < phoneNum.Length; i++)
             {
                 Console.WriteLine(phoneNum[i]);
-
             }
 
             Console.WriteLine("Вваше имя:" + names[6]);
             Console.WriteLine("Ваш возраст:" + byteValue);
             Console.WriteLine("Ваш номер телефона:" + phoneNum[6]);
-
             Console.WriteLine("Ваши данные занесены в книгу");
-
-
-
-
-
-
-
-
         }
     }
 }
