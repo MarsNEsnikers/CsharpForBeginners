@@ -25,7 +25,6 @@ namespace notebook
 
             Console.WriteLine("Вваше имя:" + names[6]);
 
-
             byte[] age = new byte[10];
 
             age[0] = 18;
