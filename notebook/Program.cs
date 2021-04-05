@@ -40,7 +40,7 @@ namespace notebook
             age[5] = 38;
 
             string strAge;
-            byte byteValue = age[7];
+            byte byteValue;
 
             Console.WriteLine("Введите ваш возраст:");
             strAge = Console.ReadLine();
@@ -55,16 +55,16 @@ namespace notebook
             if (success)
             {
 
-                Console.WriteLine("Ваш возраст:" + byteValue);
-                byteValue = age[7];
+                Console.WriteLine("Ваш возраст:" + strAge, byteValue);
+                
             }
 
             if (!success)
             {
                 Console.WriteLine("Вы ввели не число!");
                 strAge = Console.ReadLine();
-                Console.WriteLine("Ваш возраст:" + byteValue);
-                byteValue = age[7];
+                Console.WriteLine("Ваш возраст:" + strAge, byteValue);
+                
 
             }
 
@@ -88,8 +88,10 @@ namespace notebook
             }
 
             Console.WriteLine("Вваше имя:" + names[6]);
-            Console.WriteLine("Ваш возраст:" + strAge, byteValue);
+            Console.WriteLine("Ваш возраст:" + byteValue);
             Console.WriteLine("Ваш номер телефона:" + phoneNum[6]);
+
+            Console.WriteLine("Ваши данные занесены в книгу");
 
 
 
